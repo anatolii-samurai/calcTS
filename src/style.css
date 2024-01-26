@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;
+}
+.main{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+input,select,button{
+    margin-right: 10px;
+}
+input{
+    width: 70px;
+}
+li{
+    cursor: pointer;
+}
+li:hover{
+    color: #FF0000;
+}
+.answers_main{
+    display: flex;
+    justify-content: center;
+}
